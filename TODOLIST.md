@@ -12,3 +12,5 @@
 
 - Work on a system that creates a scene for Derelicts and Precursor Vaults.
 - Square grid. Flowchart method. Journal entries for points of interest. Etc.
+
+- Should not be able to 'fulfill' a challenge with no progress boxes filled
